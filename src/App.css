@@ -1,6 +1,6 @@
 @font-face {
     font-family:myfont;
-    src: url(/firest/font.woff2);
+    src: url("Gilroy-Semibold.ttf");
 }
 #root{
     text-transform: capitalize;
